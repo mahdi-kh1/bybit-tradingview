@@ -1,18 +1,5 @@
 Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook . 
 
-After setting up this bot, which is an easy version, you can also get a more advanced version here: ###https://github.com/Mtemi/BybitTelegramBot   for free. 
-
-# Setup of this Bot: 
-You can setup a free version of this bot with the instructions below !!!! 
-
-The code provided here may need some development intuition because it may not necessarily work since Bybit keep updating their REST API endpoints and their websockets. Incase of issues installing the code join our discord here:  https://discord.gg/XKNBAGtmuB and ask the questions you may have. 
-
-Access Bybit Documentation here:  https://bybit-exchange.github.io/docs/inverse/#t-introduction
-
-Join our Discord Server https://discord.gg/bwCJTVDbRr for Assistance and Updates
-
-Upgrade with Telegram integration is available as per your requirements. 
-
 # ..: 
 
 Python based Bybit.com Trading Bot using TradingView.com alerts via webhooks as a trigger to buy/sell/close/manage positions Importantly make sure you create an account on Bybit as well as TradingView: Have knowledge in preparing a python environment, then normal procedures of running python code applies. A web app of this app is in the making. Where you can set your private and public Bybit keys. The parameters are set from TradingView webhooks. several webhooks can be applied. User is able to set TradingView alerts and decide what will happen when each one fires.
